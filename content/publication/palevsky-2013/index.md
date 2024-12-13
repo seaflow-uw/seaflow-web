@@ -9,5 +9,6 @@ featured: false
 publication: "*Global Biogeochemical Cycles*"
 tags: ["Gulf of Alaska", "biological pump", "carbon cycle", "net community production", "phytoplankton"]
 doi: "10.1002/gbc.20058"
+share: false
 ---
 

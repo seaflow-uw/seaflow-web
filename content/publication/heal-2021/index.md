@@ -1,5 +1,5 @@
 ---
-title : "Marine Community Metabolomes Carry Fingerprints of Phytoplankton Community Composition"
+title : "Marine community metabolomes carry fingerprints of phytoplankton community composition"
 date : 2021-04-06
 publishDate: 2021-06-01T17:46:51.934135Z
 authors : ["Katherine R. Heal", "Bryndan P. Durham", "Angela K. Boysen", "Laura T. Carlson", "Wei Qin", "Francois Ribalet", "Angelicque E. White", "Randelle Bundy", "E. Virginia Armbrust", "Anitra E. Ingalls"]

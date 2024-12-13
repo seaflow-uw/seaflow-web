@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Welcome to the SeaFlow Research Group
-      text: The SeaFlow Research Group is an interdisciplinary team of scientists dedicated to understanding the role of phytoplankton in a changing planet. phytoplankton are the invisible engines of our oceans, driving the biological carbon pump that helps regulate Earth's climate. As our planet faces unprecedented climate change, understanding how these microscopic photosynthetic organisms respond to and influence environmental shifts has become increasingly critical. Our research focuses on developing innovative observational technologies and advanced computational approaches to transform our understanding of how phytoplankton drive and respond to environmental changes. We are committed to open science and reproducible research, and we welcome collaboration with other researchers and organizations.
+      title: The Role of Phytoplankton in a Changing Planet
+      text: The SeaFlow Research Group is an interdisciplinary team of scientists dedicated to understanding the role of phytoplankton in a changing planet. Phytoplankton are the invisible engines of our oceans, driving the biological carbon pump that helps regulate Earth's climate. Our research focuses on developing innovative observational technologies and advanced computational approaches to understand how these microscopic photosynthetic organisms respond to and influence climate change.
 
   - block: slider
     content:
@@ -73,7 +73,7 @@ sections:
     content:
       title: Latest News
       subtitle:
-      text: Transform your phytoplankton research with SeaFlow, our innovative flow cytometer that operates continuously underway. Own a SeaFlow or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and become a part of the SeaFlow community.
+      text: Transform your phytoplankton research with SeaFlow, our innovative flow cytometer that operates continuously underway. Own a SeaFlow or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and how to become a part of the SeaFlow community.
         {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
 
 

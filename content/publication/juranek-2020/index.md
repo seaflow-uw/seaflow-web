@@ -1,5 +1,5 @@
 ---
-title: "The Importance of the Phytoplankton “Middle Class” to Ocean Net Community Production"
+title: "The importance of the phytoplankton “middle class” to ocean net community production"
 date: 2020-11-25
 publishDate: 2020-11-25T17:46:51.934135Z
 authors: ["L. Juranek", "A. White", "M. Dugenne", "F. Henderikx Freitas", "S. Dutkiewicz", "F. Ribalet", "S. Ferron", "E.V. Armbrust", "D.M. Karl"]
@@ -9,5 +9,6 @@ featured: false
 publication: "*Global Biogeochemical Cycles*"
 url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GB006702"
 doi: "10.1029/2020GB006702"
+share : false
 ---
 

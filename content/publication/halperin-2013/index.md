@@ -9,5 +9,6 @@ featured: false
 publication: "*ACM International Conference Proceeding Series*"
 tags: ["Design", "Experimentation", "Human factors", "Management"]
 doi: "10.1145/2484838.2484880"
+share : false
 ---
 

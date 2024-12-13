@@ -1,6 +1,8 @@
 ---
 title: Popcycle
 date: "2014-12-01"
+show_date: false
+share: false
 ---
 [Popcycle](https://github.com/seaflow-uw/popcycle) is an R package that offers a reproducible approach to process, calibrate and curate flow cytometry data collected by SeaFlow. Detailed information can be found in the [Ribalet et al. (2019)](https://doi.org/10.1038/s41597-019-0292-2).
 <!--more--> 

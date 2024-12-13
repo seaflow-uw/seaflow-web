@@ -1,5 +1,5 @@
 ---
-title: "Dynamics of Teleaulax -like cryptophytes during the decline of a red water bloom in the Columbia River Estuary"
+title: "Dynamics of Teleaulax-like cryptophytes during the decline of a red water bloom in the Columbia River Estuary"
 date: 2017-01-01
 publishDate: 2020-03-09T17:46:51.929393Z
 authors: ["M. Hamilton", "G.M.M. Hennon", "R. Morales", "J. Needoba", "T.D. Peterson", "M. Schatz", "J. Swalwell", "E.V. Armbrust", "F. Ribalet"]
@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Plankton Research*"
 tags: ["Mesodinium rubrum", "SeaFlow", "Teleaulax", "cryptophytes", "division rates"]
 doi: "10.1093/plankt/fbx029"
+share : false
 ---
 

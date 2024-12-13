@@ -8,5 +8,6 @@ abstract: "Diatoms are an important group of eukaryotic phytoplankton, responsib
 featured: false
 publication: "*PLoS Biology*"
 doi: "10.1371/journal.pbio.0040060"
+share: false
 ---
 

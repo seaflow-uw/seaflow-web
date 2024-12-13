@@ -8,5 +8,6 @@ abstract: "The temporal dynamics of phytoplankton growth and activity have large
 featured: false
 publication: "*Nature Microbiology*"
 doi: "10.1038/nmicrobiol.2017.118"
+share: false
 ---
 

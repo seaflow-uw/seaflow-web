@@ -1,6 +1,8 @@
 ---
 title: Other Information
-lastmod: "2024-01-15"
+date: "2024-01-15"
+show_date: false
+share: false
 ---
 The ship’s real-time feed of position, time, temperature, salinity is broadcast either over the ship’s network and recorded by the SeaFlow computer.
 <!--more--> 

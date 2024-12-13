@@ -1,6 +1,8 @@
 ---
 title: flowRate
 date: "2022-01-01"
+show_date: false
+share: false
 ---
 [flowRate](https://github.com/seaflow-uw/mpm-workflow) is a size-structured matrix population model to estimate rates of cell division, carbon fixation and carbon loss in phytoplankton measured by flow cytometry. Detailed information can be found in [Glauninger et al. (2022)](https://doi.org/10.1371/journal.pcbi.1009733)
 <!--more--> 

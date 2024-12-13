@@ -1,6 +1,8 @@
 ---
 title: flowMix
 date: "2023-01-03"
+show_date: false
+share: false
 ---
 [flowMix](https://github.com/seaflow-uw/flowmix) is a statistical approach to model cell populations measured by flow cytometry with covariates using sparse mixture of regressions. Detailed information can be found in [Hyun et al. (2023)](https://doi.org/10.1214/22-AOAS1631).
 <!--more--> 

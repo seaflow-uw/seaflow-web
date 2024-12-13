@@ -10,5 +10,6 @@ publication: "*Scientific Data*"
 tags: ["Marine biology", "Microbial ecology"]
 url_pdf: "http://www.nature.com/articles/s41597-019-0292-2"
 doi: "10.1038/s41597-019-0292-2"
+share: false
 ---
 

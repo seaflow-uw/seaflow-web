@@ -1,6 +1,8 @@
 ---
 title: CytoSegmenter
 date: "2020-11-01"
+show_date: false
+share: false
 ---
 [Cytosegmenter](https://github.com/cjones6/cytosegmenter) is a kernel-based change detection method to map shifts in phytoplankton communities measured by flow cytometry. Detailed information can be found in [Jones et al. (2020)](https://doi.org/10.1111/2041-210X.13647).
 <!--more--> 

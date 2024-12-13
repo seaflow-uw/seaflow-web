@@ -9,5 +9,6 @@ featured: false
 publication: "*Phytochemistry*"
 tags: ["Chemical defense", "Growth phase", "Harmful algal blooms", "Nutrient limitation", "Polyunsaturated fatty acids", "Skeletonema"]
 doi: "10.1016/j.phytochem.2007.05.012"
+share: false
 ---
 

@@ -10,5 +10,6 @@ publication: "*Proceedings of the National Academy of Sciences*"
 tags: ["Cell division", "Cyanobacteria", "Flow cytometry", "Mortality", "SeaFlow"]
 url_pdf: "http://www.pnas.org/lookup/doi/10.1073/pnas.1424279112"
 doi: "10.1073/pnas.1424279112"
+share: false
 ---
 

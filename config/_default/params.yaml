@@ -3,6 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+params:
+  ShowDatesOnPosts: true
+
 # Appearance
 
 appearance:
@@ -15,11 +18,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    site_type: Person
+    local_business_type: 'ProfessionalService'
+    org_name: 'Francois Ribalet'
+    description: 'Francois Ribalet is an oceanographer who develops tools and models to study how microscopic plants in the ocean, phytoplankton, respond to climate change.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -72,7 +75,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/seaflow-uw/seaflow-web'
     content_dir: content
     branch: main
   avatar:

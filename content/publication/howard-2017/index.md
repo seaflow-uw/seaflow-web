@@ -9,5 +9,6 @@ featured: false
 publication: "*Global Biogeochemical Cycles*"
 tags: ["argon", "carbon flux", "gross primary production", "net community production", "oxygen", "triple oxygen isotopes"]
 doi: "10.1002/2016GB005488"
+share : false
 ---
 

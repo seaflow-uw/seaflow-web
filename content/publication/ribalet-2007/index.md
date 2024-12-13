@@ -9,5 +9,6 @@ featured: false
 publication: "*Aquatic Toxicology*"
 tags: ["Allelochemicals", "Diatoms", "EC 50", "EC50", "Growth inhibition", "Toxicity", "Viability"]
 doi: "10.1016/j.aquatox.2007.09.006"
+share: false
 ---
 

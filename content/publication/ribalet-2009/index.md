@@ -1,5 +1,5 @@
 ---
-title: "High Plasticity in the Production of Diatom-derived Polyunsaturated Aldehydes under Nutrient Limitation: Physiological and Ecological Implications"
+title: "High plasticity in the production of diatom-derived polyunsaturated aldehydes under nutrient limitation: physiological and ecological implications"
 date: 2009-01-01
 publishDate: 2020-03-09T17:46:51.939574Z
 authors: ["François Ribalet", "Charles Vidoudez", "Daniele Cassin", "Georg Pohnert", "Adrianna Ianora", "Antonio Miralto", "Raffaella Casotti"]
@@ -9,5 +9,6 @@ featured: false
 publication: "*Protist*"
 tags: ["Skeletonema marinoi", "defense", "diatoms", "nutrient limitation", "polyunsaturated aldehydes"]
 doi: "10.1016/j.protis.2009.01.003"
+share: false
 ---
 

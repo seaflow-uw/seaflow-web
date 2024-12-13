@@ -9,5 +9,6 @@ featured: false
 publication: "*Aquatic Toxicology*"
 tags: ["Allelochemicals", "Diatoms", "Growth", "LOEC", "Marine bacteria", "Polyunsaturated aldehydes", "Toxicity"]
 doi: "10.1016/j.aquatox.2007.11.005"
+share: false
 ---
 
