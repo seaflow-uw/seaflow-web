@@ -5,76 +5,109 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
+      title: Welcome to the SeaFlow Research Group
+      text: The SeaFlow Research Group is an interdisciplinary team of scientists dedicated to understanding the role of phytoplankton in a changing planet. phytoplankton are the invisible engines of our oceans, driving the biological carbon pump that helps regulate Earth's climate. As our planet faces unprecedented climate change, understanding how these microscopic photosynthetic organisms respond to and influence environmental shifts has become increasingly critical. Our research focuses on developing innovative observational technologies and advanced computational approaches to transform our understanding of how phytoplankton drive and respond to environmental changes. We are committed to open science and reproducible research, and we welcome collaboration with other researchers and organizations.
+
+  - block: slider
+    content:
+      slides:
+      - title: High-Resolution Ocean Observations
+        content: '800 billion cell measurements of phytoplankton collected across a distance equivalent to six global circumnavigations.'
+        align: left
+        background:
+          image:
+            filename: cruisetracks.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: database
+          icon_pack: fas
+          text: Download Data
+          url: https://doi.org/10.5281/zenodo.2678021
+          
+      - title: Observational Technology and Computational Tools
+        content: 'Continuous Flow-Cytometer, Matrix Population Models'
+        align: left
+        background:
+          image:
+            filename: cell-laser.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Open-source Software
+          url: ../software/
+
+      # - title: Interdisciplinary Team
+      #   content: 'Biological Oceanography, Statistics, Computer Science, Engineering'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: coders.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Meet the Team
+      #     url: ../people/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 6000
+
+  - block: markdown
     content:
       title: Latest News
       subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      text: Transform your phytoplankton research with SeaFlow, our innovative flow cytometer that operates continuously underway. Own a SeaFlow or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and become a part of the SeaFlow community.
+        {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
+
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Articles
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
-        publication_type: 'article'
     design:
-      view: citation
+      view: compact
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+
+# - block: markdown
+#     content:
+#       title:
+#       subtitle: ''
+#       text:
+#     design:
+#       columns: '1'
+#       background:
+#         image: 
+#           filename: coders.jpg
+#           filters:
+#             brightness: 1
+#           parallax: false
+#           position: center
+#           size: cover
+#           text_color_light: true
+#       spacing:
+#         padding: ['20px', '0', '20px', '0']
+#       css_class: fullscreen
+
 ---
