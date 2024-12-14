@@ -20,8 +20,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'ProfessionalService'
-    org_name: 'Francois Ribalet'
-    description: 'Francois Ribalet is an oceanographer who develops tools and models to study how microscopic plants in the ocean, phytoplankton, respond to climate change.'
+    org_name: 'SeaFlow Research Group'
+    description: 'Our research group focuses on understanding the critical role of marine phytoplankton in ocean ecosystems and climate change using high-resolution observations and advanced computational modeling.'
     twitter: ''
   analytics:
     google_analytics: ''
