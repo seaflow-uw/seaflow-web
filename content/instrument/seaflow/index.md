@@ -13,18 +13,18 @@ Unlike traditional flow cytometers, SeaFlow eliminates the need for sheath fluid
 **Key Features and Benefits**:
 * **Virtual-core technology**: Enables sheathless operation, continuous sampling, and high-resolution spatial and temporal mapping of phytoplankton communities.    
 * **Automated, real-time analysis**: Real-time data visualization, automated population identification, and user-friendly software for remote monitoring and control. See your live dashboard [here](https://gradientscruise.org/d/Ybbbrzqae/tn427-by-time?orgId=1).  
-* **Optimized for small phytoplankton**: Specifically designed to detect and analyze surface Prochlorococcus and other small phytoplankton cells (0.5-5µm) in oligotrophic waters.    
+* **Optimized for small phytoplankton**: Specifically designed to detect and analyze surface *Prochlorococcus* and other small phytoplankton cells (0.5-10 µm) in oligotrophic waters.    
 * **Robust and adaptable**: Suitable for deployment in diverse aquatic environments, from research vessels to remote field stations.    
-* **Real-Time Analysis Dashboard**: [here](https://gradientscruise.org/d/Ybbbrzqae/tn427-by-time?orgId=1).
+* **Real-Time Analysis Dashboard**: Data are analyzed in real-time and broadcasted over the web. These visualizations of the data provided to scientists at sea and on land are available [here](https://gradientscruise.org/d/Ybbbrzqae/tn427-by-time?orgId=1).
 
 **Learn More**:
 For a deeper understanding of SeaFlow's technology and applications, please refer to these two articles: 
 * Instrument: https://doi.org/10.4319/lom.2011.9.466
 * Data: https://doi.org/10.1038/s41597-019-0292-2
 
-Technical Specifications:
+**Technical Specifications**:
 * Manufacturer: WOMODesigns, LLC
-* Dimensions: 32" x 24" x 20""
+* Dimensions: 32" x 24" x 20"
 * Weight: 130 lbs
 * Power Consumption: 230 watts
 * Data Acquisition Rate: Up to 24,000 cells per second
@@ -34,4 +34,3 @@ Technical Specifications:
 
 **Ordering Information**:
 [contact us](mailto:ribalet@uw.edu) for pricing and availability
-
