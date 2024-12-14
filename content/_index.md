@@ -29,7 +29,7 @@ sections:
           text: Download Data
           url: https://doi.org/10.5281/zenodo.2678021
           
-      - title: Observational Technology and Computational Tools
+      - title: Observational Technologies and Computational Tools
         content: 'Continuous Flow-Cytometer, Matrix Population Models'
         align: left
         background:
