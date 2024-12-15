@@ -18,11 +18,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: 'ProfessionalService'
+    site_type: 'Person'
+    local_business_type: ''
     org_name: 'SeaFlow Research Group'
     description: 'Our research group focuses on understanding the critical role of marine phytoplankton in ocean ecosystems and climate change using high-resolution observations and advanced computational modeling.'
-    twitter: ''
+    author: 'François Ribalet'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -103,7 +103,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 14
 
 # Extensions
 
