@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 params:
-  ShowDatesOnPosts: true
+  ShowDatesOnPosts: false
 
 # Appearance
 
@@ -22,7 +22,7 @@ marketing:
     local_business_type: ''
     org_name: 'SeaFlow Research Group'
     description: 'Our research group focuses on understanding the critical role of marine phytoplankton in ocean ecosystems and climate change using high-resolution observations and advanced computational modeling.'
-    author: 'François Ribalet'
+    author: 'Francois Ribalet'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -48,7 +48,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} François Ribalet. This work is licensed under {license}'
+    notice: '© {year} Francois Ribalet. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

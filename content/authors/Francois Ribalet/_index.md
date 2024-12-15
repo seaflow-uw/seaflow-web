@@ -1,9 +1,9 @@
 ---
 # Display name
-title: François Ribalet
+title: Francois Ribalet
 
 # Full Name (for SEO)
-first_name: François
+first_name: Francois
 last_name: Ribalet
 
 # Is this the primary user of the site?
