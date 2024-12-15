@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francois Ribalet
+title: François Ribalet
 
 # Full Name (for SEO)
 first_name: François
@@ -23,8 +23,8 @@ bio: My research interests include phytoplankton, climate change, population mod
 interests:
   - Phytoplankton
   - Climate Change
-  - Population Modeling
   - Flow Cytometry
+  - Population Modeling
 
 education:
   courses:
@@ -72,5 +72,4 @@ user_groups:
   - Principal Investigator
 ---
 
-As a phytoplankton ecologist, I study the mechanisms that shape the distribution of photosynthetic microbes across scales, from the microscopic level to entire ocean basins. These organisms are responsible for half of the photosynthesis on Earth, playing a critical role in the global carbon cycle and climate regulation. 
-I use a quantitative and interdisciplinary approach, combining mathematical modeling and statistical analysis to understand these processes and predict how phytoplankton may respond to future ocean conditions, including climate-driven changes. To test these models, I conduct fieldwork and collect extensive data using our custom SeaFlow cytometer, which allows for high-frequency, in situ measurements of phytoplankton community composition. 
+Phytoplankton distribution and ecological dynamics are explored through a quantitative, interdisciplinary approach that bridges microscopic observations and global climate systems. Utilizing the innovative SeaFlow cytometer, our research captures unprecedented data on marine photosynthetic microbes, revealing how these tiny organisms profoundly influence global carbon cycles and ecosystem health. By developing advanced computational models and collaborating with climate scientists, we aim to predict and understand potential marine ecosystem transformations under changing oceanic conditions.

@@ -28,11 +28,11 @@ For a deeper understanding of SeaFlow's technology and applications, please refe
 
 
 **Technical Specifications**:
-* Manufacturer: WOMODesigns, LLC
+* Manufacturer: WOMO Designs, LLC
 * Dimensions: 32" x 24" x 20"
 * Weight: 130 lbs
 * Power Consumption: 230 watts
 * Data Acquisition Rate: Up to 24,000 cells per second
 * Sample Analysis Rate: Equivalent to 480 traditional flow cytometry samples per day
-* Depth Rating: Surface deployment (adaptable for subsurface configurations)
+* Sample Flow Rate: 10-15 ml/min
 * Communication: Remote connection via satellite or Ethernet
