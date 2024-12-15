@@ -1,6 +1,6 @@
 ---
 title : "Latitudinal patterns in ocean C:N:P reflect phytoplankton acclimation and macromolecular composition"
-date : "2024-12-01T00:00:00"
+date : "2024-12-01"
 authors : ["Justin D. Liefer", "Angelicque E. White", "Zoe V. Finkel", "Andrew J. Irwin", "Mathilde Dugenne", "Keisuke Inomura", "François Ribalet", "E. Virginia Armbrust", "David M. Karl", "Matthew H. Fyfe", "Christopher M. Brown", "Michael J. Follows"]
 publication_types : ["2"]
 publication : "in *Proceedings of the National Academy of Sciences*"

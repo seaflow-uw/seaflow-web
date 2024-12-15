@@ -1,6 +1,6 @@
 ---
 title : "High-frequency sampling captures variability in phytoplankton population-specific periodicity, growth, and productivity"
-date : "2024-12-01T00:00:00"
+date : "2024-12-01"
 authors : ["Annette M. Hynes", "Jordan Winter", "Chris T. Berthiaume", "Eric Shimabukuro", "Kelsy Cain", "Angelicque White", "E. Virginia Armbrust", "François Ribalet"]
 publication_types : ["2"]
 publication : "in *Limnology and Oceanography*"

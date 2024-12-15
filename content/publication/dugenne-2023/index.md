@@ -1,6 +1,6 @@
 ---
 title : "Nitrogen fixation in mesoscale eddies of the North Pacific Subtropical Gyre: patterns and mechanisms"
-date : "2023-12-01T00:00:00"
+date : "2023-12-01"
 authors : ["Mathilde Dugenne", "Mary R. Gradoville", "Matthew J. Church", "Samuel T. Wilson", "Uri Sheyn", "Matthew J. Harke", "Karin M. Björkman", "Nicholas J. Hawco", "Annette M. Hynes", "François Ribalet", "David M. Karl", "Edward F. DeLong", "Sonya T. Dyhrman", "E. Virginia Armbrust", "Seth John", "John M. Eppley", "Katie Harding", "Brittany Stewart", "Ana M. Cabello", "Kendra A. Turk-Kubo", "Mathieu Caffin", "Angelicque E. White", "Jonathan P. Zehr"]
 publication_types : ["2"]
 publication : "in *Global Biogeochemical Cycles*"

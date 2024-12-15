@@ -1,6 +1,6 @@
 ---
 title : "Amplicon sequencing with internal standards yields accurate picocyanobacteria cell abundances as validated with flow cytometry"
-date : "2024-12-01T00:00:00"
+date : "2024-12-01"
 authors : ["Alex Jones-Kellett", "ra E", "Jesse C McNichol", "Yubin Raut", "Kelsy R Cain", "François Ribalet", "E Virginia Armbrust", "Michael J Follows", "Jed A Fuhrman"]
 publication_types : ["2"]
 publication : "in *ISME Communications*"

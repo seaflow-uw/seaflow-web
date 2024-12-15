@@ -1,6 +1,6 @@
 ---
 title : "Interoperable vocabulary for marine microbial flow cytometry"
-date : "2022-06-01T00:00:00"
+date : "2022-06-01"
 authors : ["Melilotus Thyssen", "Gérald Grégori", "Véronique Créach", "Soumaya Lahbib", "Mathilde Dugenne", "Hedy M. Aardema", "Luis Felipe Artigas", "Bangqin Huang", "Aude Barani", "Laureen Beaugeard", "Amel Bellaaj-Zouari", "Alfred Beran", "Raffaella Casotti", "Yol Del Amo", "a", "Michel Denis", "George B.J. Dubelaar", "Sonja Endres", "Lumi Haraguchi", "Bengt Karlson", "Christophe Lambert", "Arnaud Louchart", "Dominique Marie", "Gwenaëlle Moncoiffé", "David Pecqueur", "François Ribalet", "Machteld Rijkeboer", "Tina Silovic", "Ricardo Silva", "Sophie Marro", "Heidi M. Sosik", "Marc Sourisseau", "Glen Tarran", "Nicolas Van Oostende", "Li Zhao", "Shan Zheng"]
 publication_types : ["2"]
 publication : "in *Frontiers in Marine Science*"
