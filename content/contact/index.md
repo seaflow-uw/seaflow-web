@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: <br> <br> <br> <br>
+    design:
+      background:
+        image:
+          filename: underwater.jpg
+          parallax: false
+          position: center
+          size: cover
+          
   - block: contact
     content:
       title: Join us
@@ -13,7 +24,7 @@ sections:
         Dr. François Ribalet <br>
         School of Oceanography <br>
         University of Washington <br>
-        Ocean Science Building <br>
+        Ocean Sciences Building <br>
         Seattle, WA 98105 <br>
       email: ribalet@uw.edu
       coordinates:
