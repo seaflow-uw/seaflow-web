@@ -16,7 +16,7 @@ banner:
   </div>
   <div>
   <br>
-    To address the challenges of studying marine phytoplankton in their natural environment, we developed the SeaFlow cytometer, an automated instrument that provides new ways to study phytoplankton population dynamics. Unlike traditional flow cytometers, SeaFlow enables <b>continuous, high-frequency sampling of surface waters</b>, capturing unprecedented spatial and temporal resolutions. This allows for a deeper exploration of phytoplankton interactions with their environment, from microscopic to ocean-basin-scales.
+    To address the challenges of studying marine phytoplankton in their natural environment, we developed the SeaFlow cytometer, an automated instrument that provides new ways to study phytoplankton population dynamics. Unlike traditional flow cytometers, SeaFlow enables continuous, high-frequency sampling of surface waters, capturing unprecedented spatial and temporal resolutions. This allows for a deeper exploration of phytoplankton interactions with their environment, from microscopic to ocean-basin-scales.
   </div>
 </div>
 
