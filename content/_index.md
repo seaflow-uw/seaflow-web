@@ -34,7 +34,7 @@ sections:
           image:
             filename: cruisetracks.jpg
             filters:
-              brightness: 0.9
+              brightness: 0.75
           position: center
           color: '#555'
         link:
@@ -48,9 +48,9 @@ sections:
         align: left
         background:
           image:
-            filename: cell-laser.jpg
+            filename: MatrixPopulationModel.png
             filters:
-              brightness: 0.8
+              brightness: 0.5
           position: center
           color: '#555'
         link:

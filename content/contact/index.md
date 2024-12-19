@@ -11,11 +11,11 @@ sections:
     design:
       background:
         image:
-          filename: underwater.jpg
+          filename: cell-laser.jpg
           parallax: false
           position: center
           size: cover
-          
+         
   - block: contact
     content:
       title: Join us
@@ -38,7 +38,6 @@ sections:
 
       # Automatically link email and phone or display as text?
       autolink: true
-    
 
   # - block: markdown
   #   content:
