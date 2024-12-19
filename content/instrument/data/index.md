@@ -10,9 +10,11 @@ SeaFlow provides high-resolution data on the abundance, optical properties, size
 <!--more-->
 SeaFlow data are processed using 3 key steps: filtration, classification, and data conversion.  The filtration step identifies particles in focus, and the classification step categorizes particles based on optical properties.  The data sets are then expanded to include equivalent spherical diameter (ESD) and carbon quotas derived from light scatter measurements. Rates of changes of these properties over time are calculated to estimate cellular growth rates and net production.
 
+A example dataset that combines observations from 64 cruises is available at [Zenodo](https://doi.org/10.5281/zenodo.2678021).
+
 <figure>
   <img src="data.png" alt="SeaFlow">
-  <figcaption> Time-series data for Prochlorococcus collected in surface waters near the California coast. </figcaption>
+  <figcaption> Time-series data for Prochlorococcus collected in surface waters during a cruise near the California coast. </figcaption>
 </figure>
 
 SeaFlow collects the following **state estimate** data:

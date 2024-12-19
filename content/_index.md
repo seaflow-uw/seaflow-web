@@ -40,8 +40,9 @@ sections:
         link:
           icon: database
           icon_pack: fas
-          text: Download Data
-          url: https://doi.org/10.5281/zenodo.2678021
+          text: Meet SeaFlow
+          url: ../instrument/
+          #url: https://doi.org/10.5281/zenodo.2678021
         
       - title: Computational Tools and Statistical Analysis
         content: 'Data analysis and Visualization, Matrix Population Models, Machine Learning'
