@@ -18,9 +18,11 @@ sections:
 
   - block: markdown
     content:
-      title: The Role of Phytoplankton in a Changing Planet
-      text: The SeaFlow Research Group is an interdisciplinary team of scientists dedicated to understanding the role of phyotplankton in a changing planet. These microscopic photosynthetic organisms are the invisible engines of our oceans, driving the biological carbon pump that helps regulate Earth's climate. We integrate advanced observational technologies with innovative computational approaches to understand how these organisms respond to changing ocean conditions.
+      text: We are an interdisciplinary team of scientists studying the role of phytoplankton in a changing planet. We integrate advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our oceans.
       align: justify
+    design:
+      spacing:
+         padding: ['40px', '0', '40px', '0']
 
   - block: slider
     content:
@@ -41,8 +43,8 @@ sections:
           text: Download Data
           url: https://doi.org/10.5281/zenodo.2678021
         
-      - title: Observational Technologies and Computational Tools
-        content: 'Continuous Flow-Cytometer, Matrix Population Models'
+      - title: Computational Tools and Statistical Analysis
+        content: 'Data analysis and Visualization, Matrix Population Models, Machine Learning'
         align: left
         background:
           image:
