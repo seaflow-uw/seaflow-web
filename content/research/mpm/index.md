@@ -1,14 +1,13 @@
 ---
-title: Computational Modeling of Marine Ecosystem Dynamics
+title: Computational Modeling of Phytoplankton Population Dynamics
 date: "2022-03-01"
 show_date: false
 share: false
 ---
-
-We use innovative computational models to understand how environmental changes impact phytoplankton populations and marine ecosystem dynamics.
+Our research bridges the gap between observational data and computational modeling to understand phytoplankton population dynamics.
 
 <!--more-->
 
-Our research leverages computational approaches to study the complex interactions within marine ecosystems. By developing innovative matrix population models, we track critical phytoplankton activities including growth, mortality, carbon fixation, respiration, and exudation across different size classes of phytoplankton. These models integrate environmental data to determine how physical and chemical changes reshape marine populations. We are pioneering next-generation models that incorporate environmental stochasticity, explicitly accounting for the inherent randomness and uncertainty in marine systems—such as the unpredictable dynamics of ocean currents, turbulent water mixing, and sudden environmental fluctuations. 
+We are developing iinovative computational approaches, including matrix population models, to investigate the effects of environmental change on phytoplankton. These models leverage high-resolution observations from SeaFlow to track key phytoplankton activities including growth, mortality, carbon fixation, respiration, and exudation across various size classes.  
 
-Our work has uncovered fascinating insights, such as the light-driven synchrony in *Prochlorococcus* growth and mortality stabilizing the marine food web, and identified critical temperature thresholds that dramatically impact marine productivity. By bridging observational data with computational modeling, we aim to create more accurate frameworks for predicting how climate change will affect marine ecosystems.
+Our research has highlighted the importance of light in synchronizing *Prochlorococcus* growth and mortality, ontributing to the stability of the marine food web. We also identified critical temperature thresholds for their growth and overall productivity. This integrated approach, combining observational datasets with computational modeling, ultimately improves our ability to predict the consequences of changing ocean conditions on marine ecosystem structure and function.

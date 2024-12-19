@@ -28,7 +28,7 @@ sections:
     content:
       slides:
       - title: High-Resolution Ocean Observations
-        content: '800 billion cell measurements of phytoplankton collected across a distance equivalent to six global circumnavigations.'
+        content: '800 billion single-cell observations of phytoplankton collected across a distance equivalent to six global circumnavigations.'
         align: left
         background:
           image:
