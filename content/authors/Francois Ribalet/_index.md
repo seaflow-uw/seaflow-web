@@ -72,4 +72,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Phytoplankton distribution and ecological dynamics are explored through a quantitative, interdisciplinary approach that bridges microscopic observations and global climate systems. Utilizing the innovative SeaFlow cytometer, our research captures unprecedented data on marine photosynthetic microbes, revealing how these tiny organisms profoundly influence global carbon cycles and ecosystem health. By developing advanced computational models and collaborating with climate scientists, we aim to predict and understand potential marine ecosystem transformations under changing oceanic conditions.
+We study how phytoplankton affects Earth's climate and marine life. Using new observational technologies and computational tools, we are gathering detailed information about where they live and how they grow. This helps us understand their role in the global carbon cycle and predict how ocean ecosystems might change in the future.
