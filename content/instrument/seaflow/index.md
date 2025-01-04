@@ -8,7 +8,7 @@ share: false
 SeaFlow is an underway flow cytometer that provides continuous, real-time observations of phytoplankton in the ocean. 
 
 <!--more--> 
-The SeaFlow cytometer was developed over more than ten years through a collaboration with [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) and [Professor Armbrust](https://armbrustlab.ocean.washington.edu/people/armbrust/). This journey involved several iterations and refinements to achieve its current advanced capabilities.
+The SeaFlow cytometer was developed over more than ten years through a collaboration with [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) and [Pr. Virginia Armbrust](https://armbrustlab.ocean.washington.edu/people/armbrust/). This journey involved several iterations and refinements to achieve its current advanced capabilities.
 
 
 **Key Features and Benefits**:
