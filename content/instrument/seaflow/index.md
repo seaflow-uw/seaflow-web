@@ -13,7 +13,8 @@ The SeaFlow cytometer was developed over more than ten years through a collabora
 
 **Key Features and Benefits**:
 * **Virtual-core technology**: Unlike traditional flow cytometers, SeaFlow eliminates the need for sheath fluid, enabling continuous sampling and high-resolution data collection.   
-* **Automated, real-time analysis**: Real-time data visualization, automated population identification, and user-friendly software for remote monitoring and control. See your live dashboard [here](https://gradientscruise.org/d/Ybbbrzqae/tn427-by-time?orgId=1).  
+* **Automated, real-time analysis**: Real-time data visualization, automated population identification, and user-friendly software for remote monitoring and control. See your live dashboard here: [https://seaflowcruise.org](https://gradientscruise.org/d/Ybbbotbae/tn440-by-time?orgId=1&from=1735843162039&to=1736105944128) (previous cruises can be accessed [here](https://gradientscruise.org/d/Ybbbotbae/tn440-by-time?orgId=1&search=open&folder=current)).
+
 * **Optimized for small phytoplankton**: Specifically designed to detect and analyze surface *Prochlorococcus* and other small phytoplankton cells (0.5-10 µm) in oligotrophic waters.    
 * **Robust and adaptable**: Suitable for deployment in diverse aquatic environments, from research vessels to remote field stations.    
 

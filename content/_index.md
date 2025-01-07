@@ -16,19 +16,29 @@ sections:
   #         position: center
   #         size: cover
 
-  - block: markdown
-    content:
-      text: We are an interdisciplinary team of scientists studying the role of phytoplankton in a changing planet. We integrate advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our ecosystems.
-      align: justify
-    design:
-      spacing:
-         padding: ['40px', '0', '40px', '0']
-
   - block: slider
     content:
       slides:
+      
+      - title: The SeaFlow Research Group
+        content: 'We are an interdisciplinary team of scientists studying the role of phytoplankton in a changing planet. We integrate advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our ecosystems.'
+        align: left
+        background:
+          image:
+            filename: ocean.jpg
+            filters:
+              brightness: 0.75
+          position: center
+          color: '#555'
+        link:
+          icon: users
+          icon_pack: fas
+          text: Meet the Team
+          url: ../people/
+          #url: https://doi.org/10.5281/zenodo.2678021
+          
       - title: High-Resolution Ocean Observations
-        content: '800 billion single-cell observations of phytoplankton collected across a distance equivalent to six global circumnavigations.'
+        content: 'SeaFlow is an automated cytometer that continuously samples and analyzes marine phytoplankton, providing high-resolution data on their population dynamics across vast ocean scales. Over the last decade, we have collected over 800 billion single-cell observations of phytoplankton across a distance equivalent to six global circumnavigations.'
         align: left
         background:
           image:
@@ -38,14 +48,13 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: database
+          icon: hard-drive
           icon_pack: fas
-          text: Meet SeaFlow
+          text: Meet the Instrument
           url: ../instrument/
-          #url: https://doi.org/10.5281/zenodo.2678021
-        
+          
       - title: Computational Tools and Statistical Analysis
-        content: 'Data analysis and Visualization, Matrix Population Models, Machine Learning'
+        content: 'Our computational tools leverage SeaFlow data and innovative statistical methods to classify phytoplankton, model their growth and carbon uptake, and investigate how environmental factors shape their communities and influence the carbon cycle.'
         align: left
         background:
           image:
@@ -55,8 +64,8 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: graduation-cap
-          icon_pack: fas
+          icon: github
+          icon_pack: fab
           text: Open-source Software
           url: ../software/
 
@@ -74,6 +83,10 @@ sections:
       title: Latest News
       text: Enhance your phytoplankton research with SeaFlow, our flow cytometer that operates continuously underway. Own or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and how to become a part of the SeaFlow community.
         {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
+        
+        Tired of using an old Excel file to plan your next cruise? We created a user-friendly interface for planning research expeditions, allowing scientists to add stations and visualize the track on a map, and manage the cruise schedule. 
+        {{% cta cta_link="http://seaflow.shinyapps.io/cruisetrackplanner" cta_text="Cruise Track Planner →" %}}
+
     design:
       spacing:
          padding: ['40px', '0', '40px', '0']
