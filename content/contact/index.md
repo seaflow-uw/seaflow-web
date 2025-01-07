@@ -11,7 +11,7 @@ sections:
     design:
       background:
         image:
-          filename: cell-laser.jpg
+          filename: ctd.jpg
           parallax: false
           position: center
           size: cover
