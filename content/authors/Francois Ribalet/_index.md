@@ -72,4 +72,4 @@ user_groups:
   - Principal Investigator
 ---
 
-We study how phytoplankton affects Earth's climate and marine life. Using new observational technologies and computational tools, we are gathering detailed information about where they live and how they grow. This helps us understand their role in the global carbon cycle and predict how ocean ecosystems might change in the future.
+We study phytoplankton ecology, examining the interplay between these microscopic photosynthetic organisms and their environment. Using new observational technologies and computational tools, we are gathering detailed information about where they live and how they grow. This helps us understand their role in the global carbon cycle and predict how ocean ecosystems might change in the future.

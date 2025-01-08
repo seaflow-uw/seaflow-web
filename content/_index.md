@@ -38,7 +38,7 @@ sections:
           #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: High-Resolution Ocean Observations
-        content: 'SeaFlow is an automated cytometer that continuously samples and analyzes marine phytoplankton, providing high-resolution data on their population dynamics across vast ocean scales. Over the last decade, we have collected over 800 billion single-cell observations of phytoplankton across a distance equivalent to six global circumnavigations.'
+        content: 'SeaFlow is an automated cytometer that continuously samples and analyzes marine phytoplankton, providing high-resolution data on their population dynamics across vast ocean scales. Over the last decade, we have collected over 800 billion single-cell observations of phytoplankton across a distance equivalent to six circumnavigations.'
         align: left
         background:
           image:
@@ -84,7 +84,7 @@ sections:
       text: Enhance your phytoplankton research with SeaFlow, our flow cytometer that operates continuously underway. Own or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and how to become a part of the SeaFlow community.
         {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
         
-        Tired of using an old Excel file to plan your next cruise? We created a user-friendly interface for planning research expeditions, allowing scientists to add stations and visualize the track on a map, and manage the cruise schedule. 
+        Tired of using an Excel file to plan your next cruise? We created a user-friendly interface for planning research expeditions, allowing scientists to add stations and visualize the track on a map, and manage the cruise schedule. 
         {{% cta cta_link="http://seaflow.shinyapps.io/cruisetrackplanner" cta_text="Cruise Track Planner →" %}}
 
     design:
