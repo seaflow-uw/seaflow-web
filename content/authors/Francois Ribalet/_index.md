@@ -18,7 +18,7 @@ organizations:
     url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoplankton, climate change, population modeling and flow cytometry.
+bio: My research interests include phytoplankton ecology, flow cytometry, population dynamics, and climate change.
 
 interests:
   - Phytoplankton Ecology
