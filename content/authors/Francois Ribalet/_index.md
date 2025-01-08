@@ -72,4 +72,4 @@ user_groups:
   - Principal Investigator
 ---
 
-We study phytoplankton ecology, examining the interplay between these microscopic photosynthetic organisms and their environment. Using new observational technologies and computational tools, we are gathering detailed information about where they live and how they grow. This helps us understand their role in the global carbon cycle and predict how ocean ecosystems might change in the future.
+I study phytoplankton ecology, examining how these microscopic photosynthetic organisms interact with and shape their environment. Using new observational technologies and computational tools, I gather detailed information about where they live and how they grow. My research helps understand their role in the global carbon cycle and predict future changes in ocean ecosystems.
