@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include phytoplankton, climate change, population modeling and flow cytometry.
 
 interests:
-  - Phytoplankton
-  - Climate Change
+  - Phytoplankton Ecology
   - Flow Cytometry
-  - Population Modeling
+  - Population Dynamics
+  - Climate Change
+
 
 education:
   courses:
