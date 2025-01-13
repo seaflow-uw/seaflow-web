@@ -7,5 +7,5 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'cell-laser.jpg'
+  image: 'sunset.jpg'
 ---
