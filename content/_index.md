@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: The SeaFlow Research Group
-        content: 'We are an interdisciplinary team of scientists studying the role of phytoplankton in a changing planet. We integrate advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our ecosystems.'
+        content: 'We study the role of phytoplankton in a changing planet by integrating advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our ecosystems.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
           #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: High-Resolution Ocean Observations
-        content: 'SeaFlow is an automated cytometer that continuously samples and analyzes marine phytoplankton, providing high-resolution data on their population dynamics across vast ocean scales. Over the last decade, we have collected over 800 billion single-cell observations of phytoplankton across a distance equivalent to six circumnavigations.'
+        content: 'Using SeaFlow, an automated cytometer that continuously samples and analyzes marine phytoplankton, we have gathered over 800 billion single-cell observations across vast ocean scales, equivalent to six circumnavigations.'
         align: left
         background:
           image:
