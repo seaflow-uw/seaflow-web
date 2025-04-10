@@ -1,5 +1,5 @@
 ---
-title: flowrate
+title: flowRate
 date: "2024-01-01"
 show_date: false
 share: false
@@ -11,4 +11,4 @@ The rates of cell growth, division, and carbon loss of microbial populations in 
 Description of the model is available here:
 https://doi.org/10.1371/journal.pcbi.1009733
 
-Code is available here: https://github.com/seaflow-uw/mpm-workflow
+Code is available here: https://github.com/seaflow-uw/flowRate

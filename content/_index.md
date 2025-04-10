@@ -84,9 +84,6 @@ sections:
       text: Enhance your phytoplankton research with SeaFlow, our flow cytometer that operates continuously underway. Own or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and how to become a part of the SeaFlow community.
         {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
         
-        Tired of using an Excel file to plan your next cruise? We created a user-friendly interface for planning research expeditions, allowing scientists to add stations and visualize the track on a map, and manage the cruise schedule. 
-        {{% cta cta_link="http://seaflow.shinyapps.io/cruisetrackplanner" cta_text="Cruise Track Planner →" %}}
-
     design:
       spacing:
          padding: ['40px', '0', '40px', '0']
