@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: The SeaFlow Research Group
-        content: 'We study the role of phytoplankton in a changing planet by integrating advanced observational technologies with innovative computational approaches to understand how phytoplankton respond to changing ocean conditions and what that means for the future of our ecosystems.'
+        content: 'We combine observational technologies and statistical approaches to understand how phytoplankton respond to our changing planet and shape the future of marine ecosystems.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
           #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: High-Resolution Ocean Observations
-        content: 'Using SeaFlow, an automated cytometer that continuously samples and analyzes marine phytoplankton, we have gathered over 800 billion single-cell observations across vast ocean scales, equivalent to six circumnavigations.'
+        content: 'SeaFlow, our custom-built automated flow cytometer that continuously samples marine phytoplankton, has collected over 800 billion single-cell observations across ocean basins equivalent to six circumnavigations.'
         align: left
         background:
           image:
@@ -54,7 +54,7 @@ sections:
           url: ../instrument/
           
       - title: Computational Tools and Statistical Analysis
-        content: 'Our computational tools leverage SeaFlow data and innovative statistical methods to classify phytoplankton, model their growth and carbon uptake, and investigate how environmental factors shape their communities and influence the carbon cycle.'
+        content: 'Our computational and statistical methods use SeaFlow data to understand how environmental factors influence phytoplankton growth and mortality, shaping community structure and carbon cycling.'
         align: left
         background:
           image:
@@ -81,7 +81,7 @@ sections:
   - block: markdown
     content:
       title: Latest News
-      text: Enhance your phytoplankton research with SeaFlow, our flow cytometer that operates continuously underway. Own or rent it for your upcoming research expeditions - [contact us](mailto:ribalet@uw.edu) to discuss your research needs and how to become a part of the SeaFlow community.
+      text: You can purchase or rent SeaFlow for your research cruises and [contact us](mailto:ribalet@uw.edu) to discuss your research needs and join the SeaFlow community.
         {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
         
     design:
