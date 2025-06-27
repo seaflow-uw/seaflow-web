@@ -10,7 +10,7 @@ last_name: Ribalet
 superuser: true
 
 # Role/position
-role: Principal Research Scientist
+role: Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -78,4 +78,5 @@ user_groups:
   - Principal Investigator
 ---
 
-I study phytoplankton ecology, examining how these microscopic photosynthetic organisms interact with and shape their environment. Using new observational technologies and computational tools, I gather detailed information about where they live and how they grow. My research helps understand their role in the global carbon cycle and predict future changes in ocean ecosystems.
+I study phytoplankton ecology, examining how these microscopic photosynthetic organisms interact with and shape their environment. 
+Using observational technologies and computational tools, I track where they live and how they grow to better predict future changes in ocean ecosystems.
