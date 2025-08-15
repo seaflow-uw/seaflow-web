@@ -9,6 +9,6 @@ banner:
   caption: ''
   image: ocean.jpg
 ---  
-Phytoplankton are the invisible engines of our oceans, driving the biological carbon pump that regulates Earth's climate. We use technologies like the SeaFlow cytometer to collect high-resolution observations of phytoplankton populations across ocean basins, driving the development of computational and statistical models, including matrix population models, to understand phytoplankton dynamics across diverse spatial and temporal scales.
+The Ribalet Lab is a biological oceanography lab at the University of Washington. We combine flow cytometry with statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins. Our work addresses fundamental processes governing marine carbon cycling and ecosystem dynamics by quantifying how environmental factors drive phytoplankton growth, mortality, and community structure.
 
 <br>

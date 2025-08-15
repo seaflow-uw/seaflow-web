@@ -18,13 +18,12 @@ organizations:
     url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoplankton ecology, flow cytometry, population dynamics, and climate change.
+bio: Our work combines flow-cytometry (SeaFlow) and statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.
 
 interests:
   - Phytoplankton Ecology
   - Flow Cytometry
-  - Population Dynamics
-  - Climate Change
+  - Machine Learning
 
 
 education:
@@ -78,5 +77,4 @@ user_groups:
   - Principal Investigator
 ---
 
-I study phytoplankton ecology, examining how these microscopic photosynthetic organisms interact with and shape their environment. 
-Using observational technologies and computational tools, I track where they live and how they grow to better predict future changes in ocean ecosystems.
+We combine flow cytometry (SeaFlow) with statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins. Using the custom SeaFlow instrument, we have collected over 800 billion single-cell observations to quantify how environmental factors drive phytoplankton growth, mortality, and community structure. Our work address fundamental processes governing marine carbon cycling and ecosystem dynamics in our changing oceans.

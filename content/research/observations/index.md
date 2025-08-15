@@ -4,12 +4,8 @@ date: "2024-03-01"
 show_date: false
 share: false
 ---
-We use high-resolution, continuous observations of phytoplankton to understand the dynamics of ocean ecosystems and facilitate collaborative research through open data sharing.
+We study marine microbes using our custom SeaFlow flow cytometer, which provides continuous, real-time observations of phytoplankton at sea. SeaFlow measures cell size and fluorescence of individual cells at 1 km resolution, capturing the fine-scale structure of marine ecosystems that governs larger patterns in ocean productivity and carbon cycling. Over the last decade, this automated system has collected measurements across nearly six global circumnavigations, exposing rapid changes and small-scale processes that drive basin-wide ecosystem dynamics.
 
-<!--more-->
+Traditional oceanographic sampling collects discrete water samples separated by hundreds of kilometers and hours to days. SeaFlow's continuous sampling reveals the dynamic nature of phytoplankton communities, detecting blooms, community shifts, and environmental responses that conventional methods miss.
 
-The SeaFlow cytometer represents a unique approach to marine ecosystem research, enabling unprecedented spatial and temporal resolution. By providing continuous, high-frequency sampling, this instrument captures marine life at scales never before possible. In over a decade of deployment, SeaFlow has traveled distances equivalent to six global circumnavigations, collecting nearly 800 billion single-cell measurements. This massive dataset allows us to explore phytoplankton interactions from microscopic to ocean-basin scales, revealing important details about marine ecosystem structure and function. 
-
-Check our [Instrument](https://seaflow.netlify.app/instrument/) section to learn more about SeaFlow and the data it produces. 
-
-We are always interested in expanding our observational network through collaborations and strategic partnerships with global oceanographic initiatives. If you would like to have SeaFlow on one of your research expeditions, please [contact us](mailto:ribalet@uw.edu). 
+See [SeaFlow](https://www.ribaletlab.org/instrument/) and [Data](https://www.ribaletlab.org/data/) to learn more about the instrument and the data it produces. 

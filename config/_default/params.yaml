@@ -18,13 +18,13 @@ appearance:
 
 marketing:
   seo:
-    site_type: 'Person'
-    local_business_type: ''
-    org_name: 'SeaFlow Research Group'
-    description: 'Our research group focuses on understanding the role of phytoplankton in a changing planet using high-resolution observations and computational modeling.'
+    site_type: 'Organization'
+    local_business_type: 'EducationalOrganization'
+    org_name: 'The Ribalet Lab | SeaFlow@UW'
+    description: 'The Ribalet Lab combines flow cytometry (SeaFlow) with statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.'
     author: 'Francois Ribalet'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-HF6MB495FR'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -66,12 +66,12 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

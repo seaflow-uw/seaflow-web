@@ -1,15 +1,13 @@
 ---
-title: Computational Modeling of Phytoplankton Population Dynamics
+title: Population Dynamics Modeling
 date: "2022-03-01"
 show_date: false
 share: false
 ---
-Our research bridges the gap between observational data and computational modeling to understand phytoplankton population dynamics.
+We develop size-structured matrix population models to extract biological rates from SeaFlow time series data. These models use changes in cell size distributions over daily cycles to estimate division rates, growth, and mortality for different phytoplankton populations. By linking these rates to environmental conditions, we reveal how factors like temperature, nutrients, and light control phytoplankton communities across ocean regions.
 
-<!--more-->
+Our modeling approach transforms optical measurements into quantitative estimates of carbon fixation, respiration, and biomass production. This connects cellular processes to ecosystem-scale carbon cycling and helps predict how marine productivity will respond to climate change.
 
-We are developing inovative computational approaches, including matrix population models, to investigate the effects of environmental change on phytoplankton. These models leverage high-resolution observations from SeaFlow to track key phytoplankton activities including growth, mortality, carbon fixation, respiration, and exudation across various size classes. 
-
-Check our [Software](https://seaflow.netlify.app/software/) section to find out more about our computational tools.
+See [Software](www.ribaletlab.org/software/) to learn more about our statistical tools and population models.
 
 

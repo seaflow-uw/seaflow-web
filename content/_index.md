@@ -20,8 +20,8 @@ sections:
     content:
       slides:
       
-      - title: The SeaFlow Research Group
-        content: 'We combine observational technologies and statistical approaches to understand how phytoplankton respond to our changing planet and shape the future of marine ecosystems.'
+      - title: The Ribalet Lab
+        content: 'We are a biological oceanography lab at the University of Washington. Our work combines flow cytometry (SeaFlow) and statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
           #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: High-Resolution Ocean Observations
-        content: 'SeaFlow, our custom-built automated flow cytometer that continuously samples marine phytoplankton, has collected over 800 billion single-cell observations across ocean basins equivalent to six circumnavigations.'
+        content: 'We study marine microbes using our custom SeaFlow flow cytometer that provides continuous, real-time observations of phytoplankton. Over more than a decade, we have collected 800 billion single-cell measurements across nearly six global circumnavigations.'
         align: left
         background:
           image:
@@ -53,8 +53,8 @@ sections:
           text: Meet the Instrument
           url: ../instrument/
           
-      - title: Computational Tools and Statistical Analysis
-        content: 'Our computational and statistical methods use SeaFlow data to understand how environmental factors influence phytoplankton growth and mortality, shaping community structure and carbon cycling.'
+      - title: Population Dynamics Modeling
+        content: 'We develop size-structured matrix population models to extract biological rates from SeaFlow time series data. By linking these rates to environmental conditions, we reveal how factors like temperature, nutrients, and light control phytoplankton communities across ocean regions.'
         align: left
         background:
           image:
@@ -76,17 +76,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 8000
-
-  - block: markdown
-    content:
-      title: Latest News
-      text: You can purchase or rent SeaFlow for your research cruises and [contact us](mailto:ribalet@uw.edu) to discuss your research needs and join the SeaFlow community.
-        {{% cta cta_link="./instrument/" cta_text="Meet the Instrument →" %}}
-        
-    design:
-      spacing:
-         padding: ['40px', '0', '40px', '0']
+      interval: 5000
 
   - block: collection
     content:

@@ -11,15 +11,14 @@ sections:
     design:
       background:
         image:
-          filename: cell-laser.jpg
+          filename: sunset.jpg
           parallax: false
           position: center
           size: cover
          
   - block: contact
     content:
-      title: Join us
-      text: Join our research group as we explore the lives of phytoplankton and their crucial role in the ocean's ecosystem.  We are committed to fostering the next generation of scientists, equipping them with the skills and knowledge to understand how these microscopic organisms are responding to a changing climate. We welcome talented individuals from all backgrounds, genders, and levels of experience – undergraduates, graduate students, postdoctoral fellows, and visiting scientists.  If you are interested in joining our team, please contact us. <br>
+      text: We train the next generation of scientists with quantitative skills to understand how marine microbes respond to a changing planet. Our lab offers opportunities for undergraduate research, graduate studies, and postdoctoral positions. We welcome individuals from all backgrounds and levels of experience. If you are interested in joining our team, please contact us to discuss current opportunities. <br>
         <br>
         Dr. Francois Ribalet <br>
         School of Oceanography <br>
