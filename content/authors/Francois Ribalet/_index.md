@@ -23,7 +23,7 @@ bio: Our work combines flow-cytometry (SeaFlow) and statistical modeling to unde
 interests:
   - Phytoplankton Ecology
   - Flow Cytometry
-  - Machine Learning
+  - Statistical Modeling
 
 
 education:
@@ -76,5 +76,3 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
-
-We combine flow cytometry (SeaFlow) with statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins. Using the custom SeaFlow instrument, we have collected over 800 billion single-cell observations to quantify how environmental factors drive phytoplankton growth, mortality, and community structure. Our work address fundamental processes governing marine carbon cycling and ecosystem dynamics in our changing oceans.
