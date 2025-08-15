@@ -20,7 +20,7 @@ sections:
     content:
       slides:
       
-      - title: The Ribalet Lab
+      - title: Overview
         content: 'We are a biological oceanography lab at the University of Washington. Our work combines flow cytometry (SeaFlow) and statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.'
         align: left
         background:
@@ -30,12 +30,12 @@ sections:
               brightness: 0.75
           position: center
           color: '#555'
-        link:
-          icon: users
-          icon_pack: fas
-          text: Meet the Team
-          url: ../people/
-          #url: https://doi.org/10.5281/zenodo.2678021
+        # link:
+        #   icon: users
+        #   icon_pack: fas
+        #   text: Meet the Team
+        #   url: ../people/
+        #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: High-Resolution Ocean Observations
         content: 'We study marine microbes using our custom SeaFlow flow cytometer that provides continuous, real-time observations of phytoplankton. Over more than a decade, we have collected 800 billion single-cell measurements across nearly six global circumnavigations.'
@@ -47,11 +47,11 @@ sections:
               brightness: 0.75
           position: center
           color: '#555'
-        link:
-          icon: hard-drive
-          icon_pack: fas
-          text: Meet the Instrument
-          url: ../instrument/
+        # link:
+        #   icon: hard-drive
+        #   icon_pack: fas
+        #   text: Meet the Instrument
+        #   url: ../instrument/
           
       - title: Population Dynamics Modeling
         content: 'We develop size-structured matrix population models to extract biological rates from SeaFlow time series data. By linking these rates to environmental conditions, we reveal how factors like temperature, nutrients, and light control phytoplankton communities across ocean regions.'
@@ -63,11 +63,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
-        link:
-          icon: github
-          icon_pack: fab
-          text: Open-source Software
-          url: ../software/
+        # link:
+        #   icon: github
+        #   icon_pack: fab
+        #   text: Open-source Software
+        #   url: ../software/
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
