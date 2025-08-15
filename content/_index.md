@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: Overview
-        content: 'We are a biological oceanography lab at the University of Washington. Our work combines flow cytometry (SeaFlow) and statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.'
+        content: 'We are a biological oceanography lab at the University of Washington. Our work combines high-resolution ocean observations and statistical modeling to reveal how environmental changes affect the growth of marine microbial communities, helping us understand their role in marine ecosystems and global carbon cycling.'
         align: left
         background:
           image:

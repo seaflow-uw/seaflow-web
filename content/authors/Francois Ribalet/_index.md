@@ -18,7 +18,7 @@ organizations:
     url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our work combines flow-cytometry (SeaFlow) and statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.
+bio: Our work combines high-resolution ocean observations and statistical modeling to reveal how environmental changes affect the growth of marine microbial communities, helping us understand their role in marine ecosystems and global carbon cycling.
 
 interests:
   - Phytoplankton Ecology
