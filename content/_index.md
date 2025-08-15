@@ -20,8 +20,8 @@ sections:
     content:
       slides:
       
-      - title: Overview
-        content: 'We are a biological oceanography lab at the University of Washington. Our work combines high-resolution ocean observations and statistical modeling to reveal how environmental changes affect the growth of marine microbial communities, helping us understand their role in marine ecosystems and global carbon cycling.'
+      - title: 
+        content: 'We study how marine phytoplankton communities respond to environmental change and drive ocean carbon cycling.'
         align: left
         background:
           image:
@@ -37,8 +37,8 @@ sections:
         #   url: ../people/
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
-      - title: High-Resolution Ocean Observations
-        content: 'We study marine microbes using our custom SeaFlow flow cytometer that provides continuous, real-time observations of phytoplankton. Over more than a decade, we have collected 800 billion single-cell measurements across nearly six global circumnavigations.'
+      - title: 
+        content: 'Our custom SeaFlow flow cytometer continuously measures phytoplankton cell properties during research cruises across ocean basins.'
         align: left
         background:
           image:
@@ -53,8 +53,8 @@ sections:
         #   text: Meet the Instrument
         #   url: ../instrument/
           
-      - title: Population Dynamics Modeling
-        content: 'We develop size-structured matrix population models to extract biological rates from SeaFlow time series data. By linking these rates to environmental conditions, we reveal how factors like temperature, nutrients, and light control phytoplankton communities across ocean regions.'
+      - title: 
+        content: 'We develop population models to estimate growth and mortality rates, revealing how environmental factors control phytoplankton communities.'
         align: left
         background:
           image:
