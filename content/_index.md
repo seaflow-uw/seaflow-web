@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'Our custom SeaFlow flow cytometer continuously measures phytoplankton cell properties during research cruises across ocean basins.'
+        content: 'We deploy our custom SeaFlow flow cytometer at sea to continuously sample collect phytoplankton cell properties across ocean basins.'
         align: left
         background:
           image:
