@@ -7,7 +7,7 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'green_stream.jpg'
+  image: 'SeaFlow_inside.jpg'
 
 ---
 <div style="display: flex;">

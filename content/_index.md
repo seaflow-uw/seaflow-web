@@ -25,7 +25,7 @@ sections:
         align: left
         background:
           image:
-            filename: ocean.jpg
+            filename: cruisetracks.jpg
             filters:
               brightness: 0.75
           position: center
@@ -38,11 +38,11 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We deploy our custom SeaFlow flow cytometer at sea to continuously sample collect phytoplankton cell properties across ocean basins.'
+        content: 'We deploy our custom SeaFlow flow cytometer at sea to continuously collect phytoplankton cell properties across ocean basins.'
         align: left
         background:
           image:
-            filename: cruisetracks.jpg
+            filename: dusk.jpg
             filters:
               brightness: 0.75
           position: center
