@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: 
-        content: 'We study how marine phytoplankton communities respond to environmental change and regulate Earth's carbon cycle.'
+        content: 'We study how marine phytoplankton communities respond to environmental change and regulate the global carbon cycle.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We use our custom-built SeaFlow cytometer at sea to measure phytoplankton continuously in real time across the global ocean.'
+        content: 'We use our custom-built SeaFlow cytometer at sea to measure phytoplankton continuously in real time across ocean basins.'
         align: left
         background:
           image:
