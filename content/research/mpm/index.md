@@ -1,5 +1,5 @@
 ---
-title: Population Dynamics Modeling
+title: Statistical Tools and Population Models
 date: "2022-03-01"
 show_date: false
 share: false
