@@ -9,6 +9,6 @@ banner:
   caption: ''
   image: dusk.jpg
 ---  
-The Ribalet Lab is a biological oceanography laboratory at the University of Washington. We study phytoplankton, microscopic marine organisms that drive ocean food webs and carbon cycling. We use a specialized flow cytometer called SeaFlow to continuously measure these cells during research cruises, collecting data at unprecedented resolution across ocean basins. Our statistical models reveal how environmental changes affect phytoplankton growth and community structure, and their critical role in marine ecosystems and global carbon cycling.
+The Ribalet Lab is a biological oceanography group at the University of Washington. We study phytoplankton, microscopic organisms that fuel ocean food webs and regulate Earth's carbon cycling. We use SeaFlow, our custom-made flow cytometer, to track these cells in real time during research cruises, collecting data at unprecedented scale across the global ocean. By combining these measurements with statistical models, we uncover how environmental change influence phytoplankton growth and community dynamics, and how these tiny organisms help regulate the health of marine ecosystems and the planet's climate.
 
 <br>
