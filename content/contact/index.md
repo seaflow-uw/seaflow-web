@@ -18,7 +18,7 @@ sections:
          
   - block: contact
     content:
-      text: We train the next generation of scientists with quantitative skills to understand how marine microbes respond to a changing planet. Our lab offers opportunities for undergraduate research, graduate studies, and postdoctoral positions. We welcome individuals from all backgrounds and levels of experience. If you are interested in joining our team, please contact us to discuss current opportunities. <br>
+      text: We train scientists with quantitative skills to study phytoplankton responses to climate change. We welcome researchers from all backgrounds and experience levels. Contact us to discuss current opportunities for undergraduates, graduate students, and postdocs. <br>
         <br>
         Dr. Francois Ribalet <br>
         School of Oceanography <br>

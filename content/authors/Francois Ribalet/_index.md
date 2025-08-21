@@ -18,7 +18,7 @@ organizations:
     url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our work combines high-resolution ocean observations and statistical modeling to reveal how environmental changes affect the growth of marine microbial communities, helping us understand their role in marine ecosystems and global carbon cycling.
+bio: Our research combines SeaFlow cytometry with statistical modeling to understand how environmental changes affect marine phytoplankton growth and their critical role in ocean ecosystems and global carbon cycling.
 
 interests:
   - Phytoplankton Ecology

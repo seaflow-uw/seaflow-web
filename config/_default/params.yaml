@@ -20,8 +20,8 @@ marketing:
   seo:
     site_type: 'Organization'
     local_business_type: 'EducationalOrganization'
-    org_name: 'The Ribalet Lab | SeaFlow@UW'
-    description: 'The Ribalet Lab combines flow cytometry (SeaFlow) with statistical modeling to understand how marine phytoplankton communities respond to environmental change across ocean basins.'
+    org_name: 'The Ribalet Lab - SeaFlow@UW'
+    description: 'UW Biological Oceanography lab studying microbial ecology and ecosystem dynamics using SeaFlow cytometry and statistical modeling.'
     author: 'Francois Ribalet'
   analytics:
     google_analytics: 'G-HF6MB495FR'
