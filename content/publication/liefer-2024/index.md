@@ -8,5 +8,8 @@ abstract : "The proportions of carbon (C), nitrogen (N), and phosphorus (P) in s
 featured : false
 share : false
 doi : "10.1073/pnas.2404460121"
+url_pdf: "https://www.pnas.org/doi/10.1073/pnas.2404460121"
 math : false
 ---
+
+{{< altmetric doi="10.1073/pnas.2404460121" badge_type="medium-donut" >}}

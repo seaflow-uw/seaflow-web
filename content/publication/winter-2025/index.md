@@ -11,3 +11,4 @@ doi: "10.1371/journal.pone.0324466"
 share: false
 ---
 
+{{< altmetric doi="10.1371/journal.pone.0324466" badge_type="medium-donut" >}}

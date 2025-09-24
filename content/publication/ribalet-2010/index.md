@@ -8,6 +8,8 @@ featured: false
 publication: "*Proceedings of the National Academy of Sciences of the United States of America*"
 tags: ["Ecotone", "Flow cytometry", "High-nitrate", "Iron", "Transition zone", "low-chlorophyll"]
 doi: "10.1073/pnas.1005638107"
+url_pdf: "https://www.pnas.org/doi/full/10.1073/pnas.1005638107"
 share: false
 ---
 
+{{< altmetric doi="10.1073/pnas.1005638107" badge_type="medium-donut" >}}

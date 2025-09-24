@@ -8,6 +8,8 @@ featured: false
 publication: "*Journal of Plankton Research*"
 tags: ["Mesodinium rubrum", "SeaFlow", "Teleaulax", "cryptophytes", "division rates"]
 doi: "10.1093/plankt/fbx029"
+url_pdf: "https://academic.oup.com/plankt/article-abstract/39/4/589/3813957"
 share : false
 ---
 
+{{< altmetric doi="10.1093/plankt/fbx029" badge_type="medium-donut" >}}

@@ -8,6 +8,8 @@ featured: false
 publication: "*Proceedings of the National Academy of Sciences of the United States of America*"
 tags: ["B 12", "Cobalamin", "Cyanobacteria", "Pseudocobalamin", "Thaumarchaeota"]
 doi: "10.1073/pnas.1608462114"
+url_pdf: "https://www.pnas.org/doi/full/10.1073/pnas.1608462114"
 share : false
 ---
 
+{{< altmetric doi="10.1073/pnas.1608462114" badge_type="medium-donut" >}}

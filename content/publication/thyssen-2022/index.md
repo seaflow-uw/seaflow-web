@@ -8,5 +8,8 @@ abstract : "The recent development of biological sensors has extended marine pla
 featured : false
 share: false
 doi : "10.3389/FMARS.2022.975877"
+url_pdf: "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.975877/full"
 math : false
 ---
+
+{{< altmetric doi="10.3389/FMARS.2022.975877" badge_type="medium-donut" >}}

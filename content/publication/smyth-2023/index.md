@@ -8,6 +8,8 @@ featured : true
 share: false
 publication : "*Frontiers in Marine Science*"
 doi: "10.3389/fmars.2023.1191216"
+url_pdf: "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1191216/full"
 math : false
 ---
 
+{{< altmetric doi="10.3389/fmars.2023.1191216" badge_type="medium-donut" >}}

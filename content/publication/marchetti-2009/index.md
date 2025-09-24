@@ -7,6 +7,8 @@ abstract: "Primary productivity in 30-40% of the world's oceans is limited by av
 featured: false
 publication: "*Nature*"
 doi: "10.1038/nature07539"
+url_pdf: "https://www.nature.com/articles/nature07539"
 share : false
 ---
 
+{{< altmetric doi="10.1038/nature07539" badge_type="medium-donut" >}}

@@ -1,0 +1,4 @@
+{{ if .IsNamedParams }}
+<div data-badge-details="right" data-badge-type="{{ .Get "badge_type" | default "donut" }}" data-doi="{{ .Get "doi" }}" data-arxiv-id="{{ .Get "arxiv_id" }}" data-handle="{{ .Get "handle" }}" data-pmid="{{ .Get "pmid" }}" class="altmetric-embed" {{ with .Get "style" }} style="{{ . }}"{{ end }}></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+{{ end }}

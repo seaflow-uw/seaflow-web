@@ -11,3 +11,4 @@ doi: "10.1029/2020GB006702"
 share : false
 ---
 
+{{< altmetric doi="10.1029/2020GB006702" badge_type="medium-donut" >}}

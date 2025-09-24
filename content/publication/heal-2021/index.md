@@ -9,5 +9,8 @@ featured : false
 projects : []
 tags : []
 doi : "10.1128/MSYSTEMS.01334-20"
+url_pdf: "https://journals.asm.org/doi/10.1128/msystems.01334-20"
 math : false
 ---
+
+{{< altmetric doi="10.1128/MSYSTEMS.01334-20" badge_type="medium-donut" >}}

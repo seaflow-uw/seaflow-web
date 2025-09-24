@@ -7,6 +7,8 @@ abstract: "Current automated flow cytometers primarily target the dynamics of ph
 featured: false
 publication: "*Limnology and Oceanography: Methods*"
 doi: "10.4319/lom.2011.9.466"
+url_pdf: "https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lom.2011.9.466"
 share: false
 ---
 
+{{< altmetric doi="10.4319/lom.2011.9.466" badge_type="medium-donut" >}}

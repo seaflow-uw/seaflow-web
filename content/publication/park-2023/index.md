@@ -8,5 +8,8 @@ abstract : "Siderophores are strong iron-binding molecules produced and utilized
 featured : false
 share: false
 doi : "10.1002/lno.12373"
+url_pdf: "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12373"
 math : false
 ---
+
+{{< altmetric doi="10.1002/lno.12373" badge_type="medium-donut" >}}

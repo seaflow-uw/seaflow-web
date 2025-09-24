@@ -11,3 +11,4 @@ doi: "10.1016/j.protis.2009.01.003"
 share: false
 ---
 
+{{< altmetric doi="10.1016/j.protis.2009.01.003" badge_type="medium-donut" >}}

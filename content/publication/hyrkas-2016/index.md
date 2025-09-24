@@ -11,3 +11,4 @@ url_pdf: "http://bioinformatics.oxfordjournals.org/content/32/3/417.abstract"
 doi: "10.1093/bioinformatics/btv594"
 ---
 
+{{< altmetric doi="10.1093/bioinformatics/btv594" badge_type="medium-donut" >}}

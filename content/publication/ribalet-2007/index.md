@@ -11,3 +11,4 @@ doi: "10.1016/j.aquatox.2007.09.006"
 share: false
 ---
 
+{{< altmetric doi="10.1016/j.aquatox.2007.09.006" badge_type="medium-donut" >}}

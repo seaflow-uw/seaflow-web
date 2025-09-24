@@ -11,3 +11,5 @@ url_pdf : "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcb
 doi : "10.1371/JOURNAL.PCBI.1009733"
 math : false
 ---
+
+{{< altmetric doi="10.1371/JOURNAL.PCBI.100973" badge_type="medium-donut" >}}

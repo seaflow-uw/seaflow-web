@@ -7,6 +7,8 @@ abstract: "Motivation: Flow cytometry is a widely used technique among biologist
 featured: false
 publication: "*Bioinformatics*"
 doi: "10.1093/bioinformatics/btr003"
+url_pdf: "https://academic.oup.com/bioinformatics/article/27/5/732/1746236"
 share: false
 ---
 
+{{< altmetric doi="10.1093/bioinformatics/btr003" badge_type="medium-donut" >}}

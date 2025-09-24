@@ -10,4 +10,7 @@ tags: ["Cell division", "Cyanobacteria", "Flow cytometry", "SeaFlow"]
 url_pdf: "https://www.nature.com/articles/s41564-025-02106-4"
 doi: "10.1038/s41564-025-02106-4"
 share: true
+add_badge: true
 ---
+
+{{< altmetric doi="10.1038/s41564-025-02106-4" badge_type="medium-donut" >}}

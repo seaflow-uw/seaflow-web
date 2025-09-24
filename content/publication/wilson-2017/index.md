@@ -7,6 +7,8 @@ abstract: "The temporal dynamics of phytoplankton growth and activity have large
 featured: false
 publication: "*Nature Microbiology*"
 doi: "10.1038/nmicrobiol.2017.118"
+url_pdf: "https://www.nature.com/articles/nmicrobiol2017118"
 share: false
 ---
 
+{{< altmetric doi="10.1038/nmicrobiol.2017.118" badge_type="medium-donut" >}}

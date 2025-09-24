@@ -8,6 +8,8 @@ featured: false
 publication: "*ACM International Conference Proceeding Series*"
 tags: ["Design", "Experimentation", "Human factors", "Management"]
 doi: "10.1145/2484838.2484880"
+url_pdf: "https://dl.acm.org/doi/10.1145/2484838.2484880"
 share : false
 ---
 
+{{< altmetric doi="10.1145/2484838.2484880" badge_type="medium-donut" >}}

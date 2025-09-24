@@ -7,6 +7,8 @@ abstract: "Diatoms are able to react to biotic and abiotic stress, such as compe
 featured: false
 publication: "*PLoS ONE*"
 doi: "10.1371/journal.pone.0085947"
+url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085947"
 share: false
 ---
 
+{{< altmetric doi="10.1371/journal.pone.0085947" badge_type="medium-donut" >}}

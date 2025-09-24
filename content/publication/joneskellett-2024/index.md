@@ -8,5 +8,8 @@ abstract : "Marine microbial ecologists seek measurements of organismal abundanc
 featured : false
 share : false
 doi : "10.1093/ismeco/ycae115"
+url_pdf: "https://doi.org/10.1093/ismeco/ycae115"
 math : false
 ---
+
+{{< altmetric doi="10.1093/ismeco/ycae115" badge_type="medium-donut" >}}

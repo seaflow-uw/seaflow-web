@@ -12,3 +12,4 @@ doi: "10.1038/s41597-019-0292-2"
 share: false
 ---
 
+{{< altmetric doi="10.1038/s41597-019-0292-2" badge_type="medium-donut" >}}
