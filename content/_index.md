@@ -80,7 +80,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Articles
+      title: Featured Articles
       text: ""
       count: 3
       filters:
