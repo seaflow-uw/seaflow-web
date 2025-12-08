@@ -11,7 +11,12 @@ banner:
 
 ---
 
-We generate high-resolution datasets of marine phytoplankton communities using SeaFlow continuous sampling. Our data products provide both instantaneous measurements and process rates that reveal how marine microbes drive ocean biogeochemistry.
+We produce high-resolution datasets of marine phytoplankton communities through SeaFlow continuous sampling. These datasets include instantaneous measurements and process rates, and are available through Zenodo public repository. Examples of our SeaFlow data products include:
+- Abundance, size, carbon content and biomass data: [https://doi.org/10.5281/zenodo.2678021](https://doi.org/10.5281/zenodo.2678021). 
+- Daily rates of cell division, carbon fixation and carbon loss: [https://doi.org/10.5281/zenodo.2678021](https://doi.org/10.5281/zenodo.2678021).
+
+For real-time and historical SeaFlow data, explore our interactive dashboard: [seaflowcruise.org](https://gradientscruise.org/d/TN440-ByTime/tn440-by-time?orgId=1)
+
 
 <div style="display: flex;">
   <div style="width: 100%"> 
@@ -22,8 +27,6 @@ We generate high-resolution datasets of marine phytoplankton communities using S
 
 <br>
 
-We also develop size-structured matrix population models to estimate fundamental biological processes that drive phytoplankton population dynamics from SeaFlow time series data.
-
 <div style="display: flex;">
   <div style="width: 100%"> 
     <img src="TN398_Rates_estimates.png" alt="Rate Estimates"> 
@@ -31,9 +34,3 @@ We also develop size-structured matrix population models to estimate fundamental
   </div>
 </div>
 
-<br>
-
-
-**Data Access**: Most of our data products are available through public repositories and include quality control flags and uncertainty estimates. Abundance, size, carbon content and biomass data are available at [Zenodo](https://doi.org/10.5281/zenodo.2678021). Rate of cell division are available at [Zenodo](https://doi.org/10.5281/zenodo.2678021).
-
-We have created a dashboard to provide an interactive platform to show real-time and past SeaFlow data. See your live dashboard at [seaflowcruise.org](https://gradientscruise.org)

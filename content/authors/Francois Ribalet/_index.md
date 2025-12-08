@@ -10,7 +10,7 @@ last_name: Ribalet
 superuser: true
 
 # Role/position
-role: Research Associate Professor
+role: Leo Maddox Endowed Professor in Oceanography <br> Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: Our research combines SeaFlow cytometry and statistical modeling to study how environmental changes shape marine phytoplankton communities and their central role in ocean ecosystems and the global carbon cycle.
 
 interests:
+  - Biological Oceanography
   - Phytoplankton Ecology
-  - Flow Cytometry
   - Statistical Modeling
 
 
