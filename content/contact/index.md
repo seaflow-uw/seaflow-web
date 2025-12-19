@@ -18,7 +18,7 @@ sections:
          
   - block: contact
     content:
-      text: We train scientists with quantitative skills to study phytoplankton responses to climate change. We welcome researchers from all backgrounds and experience levels. Contact us to discuss current opportunities for undergraduates, graduate students, and postdocs. <br>
+      text: We welcome students and researchers from all backgrounds and experience levels. Don't hesitate to contact us to discuss current opportunities! <br>
         <br>
         Dr. Francois Ribalet <br>
         School of Oceanography <br>
