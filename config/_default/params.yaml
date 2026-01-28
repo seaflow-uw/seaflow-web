@@ -20,7 +20,7 @@ marketing:
   seo:
     site_type: 'Organization'
     local_business_type: 'EducationalOrganization'
-    org_name: 'The Ribalet Lab - SeaFlow@UW'
+    org_name: 'Ribalet Lab - SeaFlow@UW'
     description: 'UW Biological Oceanography group studying phytoplankton ecology and ecosystem dynamics using SeaFlow cytometry and statistical modeling.'
     author: 'Francois Ribalet'
   analytics:
