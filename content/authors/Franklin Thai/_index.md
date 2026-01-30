@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Franklin Thai
+date: 2025-01-15
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate student <br> (Computer Science)
+role: Undergraduate student <br> (Computer Science & Engineering)
 
 # Organizations/Affiliations
 organizations:

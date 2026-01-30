@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Corinne Jones
+date: 2021-03-15
 
 # Is this the primary user of the site?
 superuser: false

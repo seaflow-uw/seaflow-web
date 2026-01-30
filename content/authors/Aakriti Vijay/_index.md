@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Aakriti Vijay
+date: 2025-06-15
 
 # Is this the primary user of the site?
 superuser: false

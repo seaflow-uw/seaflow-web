@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mattias Cape
+date: 2020-07-15
 
 # Is this the primary user of the site?
 superuser: false

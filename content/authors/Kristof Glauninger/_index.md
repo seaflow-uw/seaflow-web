@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Kristof Glauninger
+date: 2022-06-15
 
 # Is this the primary user of the site?
 superuser: false

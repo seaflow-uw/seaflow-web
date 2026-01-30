@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Francois Ribalet
+weight: 1
 
 # Full Name (for SEO)
 first_name: Francois

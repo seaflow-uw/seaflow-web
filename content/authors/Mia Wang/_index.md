@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Mia Wang
+date: 2025-06-15
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate student  <br> (Computer Science)
+role: Undergraduate student  <br> (Computer Science & Engineering)
 
 # Organizations/Affiliations
 organizations:

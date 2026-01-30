@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Denise Devlyn
+date: 2020-03-15
 
 # Is this the primary user of the site?
 superuser: false
