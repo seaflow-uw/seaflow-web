@@ -6,7 +6,7 @@ title: Kristof Glauninger
 superuser: false
 
 # Role/position
-role: PhD Candidate in Statistics
+role: PhD Candidate <br> (Statistics)
 
 # Organizations/Affiliations
 organizations:

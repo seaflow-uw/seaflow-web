@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristian Swift
+title: Sophie Monterola
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,19 +24,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:crisjay01@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:somont@uw.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/cristianswift
-# - icon: orcid
+  link: https://www.linkedin.com/in/sophie-monterola
+# - icon: github
 #   icon_pack: fab
-#   link: https://orcid.org/0000-0001-8567-3340
-# - icon: mendeley
-#   icon_pack: fab
-#   link: https://www.mendeley.com/profiles/francois-ribalet/  
-- icon: github
-  icon_pack: fab
-  link: https://github.com/CristianSwift
+#   link: https://github.com/CristianSwift
 
  
 
@@ -47,11 +41,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "crisjay01@gmail.com"
+email: "somont@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researcher
 # - Visitors
 ---

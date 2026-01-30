@@ -6,7 +6,7 @@ title: Franklin Thai
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Undergraduate student <br> (Computer Science)
 
 # Organizations/Affiliations
 organizations:

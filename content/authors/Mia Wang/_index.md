@@ -6,7 +6,7 @@ title: Mia Wang
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Undergraduate student  <br> (Computer Science)
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,7 @@ email: "yingyw2@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
+
 # - Visitors
 ---

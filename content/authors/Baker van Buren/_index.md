@@ -6,7 +6,7 @@ title: Baker van Buren
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Undergraduate student <br> (Oceanography)
 
 # Organizations/Affiliations
 organizations:
