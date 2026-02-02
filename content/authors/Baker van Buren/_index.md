@@ -15,6 +15,7 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
+#bio: 
 
 #interest: 
 
@@ -55,3 +56,5 @@ user_groups:
 - Researchers
 # - Visitors
 ---
+I'm majoring in biological oceanography with a minor in data science, and I'm interested in phytoplankton and bacteria ecology, nutrient cycling, and data modeling.  I have been working with SeaFlow for three years, and have predicted phytoplankton biomass with machine learning, optimized data processing, and worked with the lab group on various smaller projects.  I also coach rowing and row competitively in my free time.
+

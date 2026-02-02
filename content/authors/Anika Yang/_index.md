@@ -15,6 +15,7 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
+#bio: 
 
 #interest: 
 
@@ -50,3 +51,4 @@ user_groups:
 - Researchers
 # - Visitors
 ---
+I'm majoring in Marine Biology and Oceanography with interests in quantitative science, conservation ecology, and design.
