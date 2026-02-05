@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Natalie Kellogg
-weight: 3
+date: 2026-01-15
 
 # Is this the primary user of the site?
 superuser: false
@@ -60,6 +60,6 @@ email: "natalie.ann.kellogg@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 # - Visitors
 ---
