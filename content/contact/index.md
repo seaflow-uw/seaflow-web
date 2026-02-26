@@ -23,7 +23,7 @@ sections:
         Dr. Francois Ribalet <br>
         School of Oceanography <br>
         University of Washington <br>
-        Ocean Sciences Building, room 304 <br>
+        Ocean Sciences Building, office 313 <br>
         Seattle, WA 98105 <br>
       email: ribalet@uw.edu
       coordinates:
