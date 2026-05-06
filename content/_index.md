@@ -42,7 +42,7 @@ sections:
         align: left
         background:
           image:
-            filename: dusk.jpg
+            filename: Pro_Diameter.png
             filters:
               brightness: 0.75
           position: center

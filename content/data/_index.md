@@ -7,7 +7,7 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'cruisetracks.jpg'
+  image: 'Pro_Diameter_2.png'
 
 ---
 
