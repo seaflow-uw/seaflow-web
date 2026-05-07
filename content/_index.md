@@ -14,7 +14,7 @@ sections:
   #         filename: ocean.jpg
   #         parallax: false
   #         position: center
-  #         size: cover
+  #         size: fill
 
   - block: slider
     content:
@@ -42,11 +42,13 @@ sections:
         align: left
         background:
           image:
+            color: white
             filename: Pro_Diameter.png
+            size: contain
             filters:
               brightness: 0.75
           position: center
-          color: '#555'
+          color: '#e0e0e0'
         # link:
         #   icon: hard-drive
         #   icon_pack: fas
@@ -59,10 +61,11 @@ sections:
         background:
           image:
             filename: MatrixPopulationModel.png
+            size: contain
             filters:
               brightness: 0.5
           position: center
-          color: '#555'
+          color: '#ffffff'
         # link:
         #   icon: github
         #   icon_pack: fab
