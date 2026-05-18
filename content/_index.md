@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We use SeaFlow, an automated instrument that continuously tracks individual phytoplankton cells in real time across thousands of kilometers of open ocean.'
+        content: 'We use automated instruments like SeaFlow, our shipboard flow cytometer, to track phytoplankton communities across thousands of miles of open ocean.'
         align: left
         background:
           image:
@@ -56,7 +56,7 @@ sections:
         #   url: ../instrument/
           
       - title: 
-        content: 'We use machine learning approaches to test how factors like temperature, nutrients, and grazing by other organisms affect how fast phytoplankton grow, decline, and which types become more common.'
+        content: 'We combine high-resolution observations with statistical and machine-learning methods to test what controls phytoplankton growth and survival.'
         align: left
         background:
           image:

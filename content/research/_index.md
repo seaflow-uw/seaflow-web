@@ -9,6 +9,6 @@ banner:
   caption: ''
   image: dusk.jpg
 ---  
-We are a biological oceanography group at the University of Washington, studying phytoplankton, microscopic organisms that fuel ocean food webs and regulate Earth's carbon cycling. Using SeaFlow, our custom-built flow cytometer, we track these cells in real time during research cruises, collecting data every kilometer across the global ocean. By pairing these measurements with machine learning approaches, we test how factors like temperature, nutrient and grazing by other organisms affect how fast phytoplankton grow, decline, and which types become more common.
+We are a biological oceanography group at the University of Washington, studying how phytoplankton, the microscopic photosynthetic organisms that support ocean life and help regulate Earth's climate, respond as the ocean changes. We use automated instruments like SeaFlow, our shipboard flow cytometer, to track these communities across thousands of miles of open ocean. We then combine these measurements with statistical and machine learning methods to test what controls their growth and survival.
 
 <br>
