@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: 
-        content: 'We study how marine phytoplankton communities respond to environmental change and regulate the global carbon cycle.'
+        content: 'We study how marine phytoplankton, the microscopic photosynthetic organisms that support ocean life and help regulate the climate, respond as the ocean changes.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We use our custom-built SeaFlow cytometer at sea to measure phytoplankton continuously in real time across ocean basins.'
+        content: 'We use SeaFlow, an automated instrument that continuously tracks individual phytoplankton cells in real time across thousands of kilometers of open ocean.'
         align: left
         background:
           image:
@@ -56,7 +56,7 @@ sections:
         #   url: ../instrument/
           
       - title: 
-        content: 'We build statistical models to understand how the environment influences phytoplankton growth and community dynamics.'
+        content: 'We use machine learning approaches to test how factors like temperature, nutrients, and grazing by other organisms affect how fast phytoplankton grow, decline, and which types become more common.'
         align: left
         background:
           image:
