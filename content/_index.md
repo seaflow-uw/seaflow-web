@@ -81,19 +81,19 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 7000
 
-  - block: collection
-    content:
-      title: Featured Articles
-      text: ""
-      count: 3
-      filters:
-        folders:
-          - publication
-    design:
-      view: compact
-      columns: '1'
-      spacing:
-         padding: ['40px', '0', '40px', '0']
+  # - block: collection
+  #   content:
+  #     title: Latest Articles
+  #     text: ""
+  #     count: 3
+  #     filters:
+  #       folders:
+  #         - publication
+  #   design:
+  #     view: compact
+  #     columns: '1'
+  #     spacing:
+  #        padding: ['40px', '0', '40px', '0']
 
 
 # - block: markdown
