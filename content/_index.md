@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We use automated instruments like SeaFlow, our shipboard flow cytometer, to track phytoplankton communities across thousands of miles of open ocean.'
+        content: 'We use shipboard instruments like SeaFlow, our continuous flow cytometer, to track phytoplankton communities across thousands of miles of open ocean.'
         align: left
         background:
           image:
