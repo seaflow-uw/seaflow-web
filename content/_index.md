@@ -21,7 +21,7 @@ sections:
       slides:
       
       - title: 
-        content: 'We study how marine phytoplankton, the microscopic photosynthetic organisms that support ocean life and help regulate the climate, respond as the ocean changes.'
+        content: 'We study how phytoplankton grow, survive, and regulate marine ecosystems as environmental conditions change.'
         align: left
         background:
           image:
@@ -38,7 +38,7 @@ sections:
         #   #url: https://doi.org/10.5281/zenodo.2678021
           
       - title: 
-        content: 'We use shipboard instruments like SeaFlow, our continuous flow cytometer, to track phytoplankton communities across thousands of miles of open ocean.'
+        content: 'We deploy shipboard flow cytometers, called SeaFlow, that measure the optical properties of individual cells across thousands of miles of ocean.'
         align: left
         background:
           image:
@@ -56,7 +56,7 @@ sections:
         #   url: ../instrument/
           
       - title: 
-        content: 'We combine high-resolution observations with statistical and machine-learning methods to test what controls phytoplankton growth and survival.'
+        content: 'We combine these observations with mathematical and statistical models to quantify their growth and survival.'
         align: left
         background:
           image:
