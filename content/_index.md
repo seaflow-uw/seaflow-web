@@ -56,7 +56,7 @@ sections:
         #   url: ../instrument/
           
       - title: 
-        content: 'We combine these observations with mathematical and statistical models to quantify their growth and survival.'
+        content: 'We combine flow-cytometry observations with mathematical and statistical models to quantify growth and survival of important phytoplankton populations.'
         align: left
         background:
           image:
