@@ -13,7 +13,7 @@ banner:
 
 We produce high-resolution datasets of marine phytoplankton communities through SeaFlow continuous sampling. These datasets include instantaneous measurements and process rates, and are available through Zenodo public repository. Examples of our SeaFlow data products include:
 - Abundance, size, carbon content and biomass data: [https://doi.org/10.5281/zenodo.2678021](https://doi.org/10.5281/zenodo.2678021). 
-- Daily rates of cell division, carbon fixation and carbon loss: [https://doi.org/10.5281/zenodo.2678021](https://doi.org/10.5281/zenodo.2678021).
+- Daily rates of cell division, carbon fixation and carbon loss: [https://doi.org/10.5281/zenodo.11043386](https://doi.org/10.5281/zenodo.11043386).
 
 For real-time and historical SeaFlow data, explore our interactive dashboard: [seaflowcruise.org](https://gradientscruise.org/d/TN440-ByTime/tn440-by-time?orgId=1)
 
