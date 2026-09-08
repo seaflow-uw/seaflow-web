@@ -1,0 +1,14 @@
+---
+title : "Flow cytometric phytoplankton concentration and optical properties across instruments and laboratories"
+date : "2026-09-01T00:00:00"
+authors : ["Francois Ribalet", "Anne W. Thompson", "E. Virginia Armbrust", "Raffaella Casotti", "Josep M. Gasol", "Emily Peacock", "Massimo C. Pernice", "Nicole J. Poulton", "Heidi M. Sosik", "Angelicque E. White", "Zackary Johnson"]
+publication_types : ["2"]
+abstract: "Flow cytometry measures the optical properties of individual cells and has become essential for enumerating and characterizing marine phytoplankton. Yet systematic comparison of measurements across instruments remains limited, hampering data comparison across laboratories and long-term time series. Here, we used 10 flow cytometers from seven manufacturers to analyze population concentration and optical properties of polystyrene beads, cultured phytoplankton, and natural phytoplankton. Light-scatter signals varied by more than two orders of magnitude across flow cytometers, reflecting differences in optical design and detector sensitivity. Light scattering calibration reduced this variability, lowering coefficients of variation from nearly 100% to below 15% in some cases, although small inter-instrument differences remained. Despite these optical corrections, concentration measurements across instruments were highly variable, with coefficients of variation ranging from 10% to 133%, which can obscure ecological signals in phytoplankton distributions. Population gating contributed minimally to this variability, with no significant difference between expert and novice users (ANOVA, F < 0.001, P > 0.99). Among laboratory culture and field samples, Prochlorococcus concentrations had the highest variability (CV = 56%) and Synechococcus the lowest (CV = 20%). Variance decomposition attributed 80% of concentration variability to hardware characteristics, including optical design, detector sensitivity, and volume-measurement methodology. These findings show that while optical properties can be standardized through calibration, instrument differences still dominate uncertainty in concentration estimates. With shared calibration tools for both optical and concentration measurements, marine flow cytometry could achieve the consistency needed to enable global, long-term syntheses of phytoplankton optical properties and abundance."
+featured: false
+publication: "*Limnology and Oceanography: Methods*"
+doi: "10.1002/lom3.70085"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/lom3.70085"
+share: false
+---
+
+{{< altmetric doi="10.1002/lom3.70085" badge_type="medium-donut" >}}
