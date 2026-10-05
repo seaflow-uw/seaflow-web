@@ -18,7 +18,8 @@ sections:
          
   - block: contact
     content:
-      text: We welcome students and researchers from all backgrounds and experience levels. Don't hesitate to contact us to discuss current opportunities! <br>
+      text: We will recruit a graduate student to start in September 2027. We are seeking applicants with a background in quantitative analysis and oceanography who are interested in fieldwork and machine learning approaches to study microbial population dynamics.
+     
         <br>
         Dr. Francois Ribalet <br>
         School of Oceanography <br>
